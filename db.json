@@ -1,0 +1,71 @@
+{
+  "Catalogos":[
+    {
+      "id":1,
+      "nome": "restaurantes",
+      "tipos": "comidas diversas",
+      "parceria": "Riccos S.A"
+    }
+  ],
+    "Restaurante": [
+      {
+        "id": 1,
+        "nome": "Laco de Ouro",
+        "descricao": "Churrascaria e Pizzaria",
+        "local": "Zona Norte-RJ"
+      },
+      {
+        "id": 2,
+        "nome": "Millenzo",
+        "descricao": "Pizzaria",
+        "local": "Todo Brasil"
+      },
+      {
+        "id": 3,
+        "nome": "Arrezo",
+        "descricao": "Comida Caseira",
+        "local": "Barra da tijuca"
+      }
+    ],
+    "Contato": [
+      {
+        "id": 1,
+        "nome": "Laço de Ouro",
+        "telefone": "4635-1030",
+        "e-mail":"lacodeouro@gmail.com"
+      },
+      {
+        "id": 2,
+        "nome": "Millenzo",
+        "telefone": " 4004-9028",
+        "e-mail":"millenzo@live.com"
+      },
+      {
+        "id": 3,
+        "nome": "Arrezo",
+        "telefone": "2403-1125",
+        "e-mail":"contatcArrezo@gmail.com"
+      }
+      
+    ],
+    "Funcionarios": [
+      {
+        "id": 1,
+        "nome": "Fernando Garcia",
+        "cargo": "Gerente",
+        "salario": "5.800,00"
+      },
+      {
+        "id": 2,
+        "nome": "Danielle Alencar",
+        "cargo":"Cozinheira",
+        "salario": "3.400,00"
+      },
+      {
+        "id":3,
+        "nome": "Bruno Souza",
+        "cargo": "Garçon",
+        "salario": "2.500,00"
+      }
+    ]
+  }
